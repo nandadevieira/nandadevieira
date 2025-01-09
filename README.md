@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+- 🔭 Atualmente estou trabalhando em conseguir um estágio
+- 🌱 Atualmente estou aprendendo COBOL
+- 📫 Como entrar em contato comigo: fernanda-vieira@outlook.com.br
+- ⚡ Curiosidade: Mudei da Administração para a T.I.
+  
+<div>
+  <a href="https://devicon.dev/">
+  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  
+  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  
+  <img height= "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+  <img height= "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+         
+</div>
+
+          
 <!--
 **nandadevieira/nandadevieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
