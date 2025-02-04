@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 - 🔭 Atualmente estou trabalhando em conseguir um estágio
-- 🌱 Atualmente estou aprendendo COBOL
+- 🌱 Atualmente estou aprendendo COBOL e Power BI
 - 📫 Como entrar em contato comigo: fernanda-vieira@outlook.com.br
 - ⚡ Curiosidade: Mudei da Administração para a T.I.
+- ⚡ Case AutoU: Me aventurando em construir um App low-code no Bubble.io: https://fernandadevieira.bubbleapps.io/version-test
   
 <div>
   <a href="https://devicon.dev/">
@@ -18,7 +19,6 @@
   <img height= "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
          
 </div>
-
           
 <!--
 **nandadevieira/nandadevieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
